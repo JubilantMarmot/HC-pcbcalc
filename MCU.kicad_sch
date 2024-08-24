@@ -2117,14 +2117,6 @@
 		(uuid "38773ad1-03e0-4014-b04e-6198dad47953")
 	)
 	(no_connect
-		(at 87.63 53.34)
-		(uuid "5d68dc2d-b9eb-4a83-83dc-9c9050b6e8e1")
-	)
-	(no_connect
-		(at 87.63 58.42)
-		(uuid "5fafcd48-a095-4e2d-aaf0-cb2748e4f095")
-	)
-	(no_connect
 		(at 87.63 71.12)
 		(uuid "60987f67-f7c6-4ec3-9ab1-74b4cb84ee49")
 	)
@@ -2149,16 +2141,8 @@
 		(uuid "9206691d-1fa4-46da-9e69-fcde57ee800b")
 	)
 	(no_connect
-		(at 87.63 63.5)
-		(uuid "9585a1b0-ed7e-41dd-a1e6-5000c830f11e")
-	)
-	(no_connect
 		(at 87.63 109.22)
 		(uuid "97dcd3cf-a431-46c6-a96a-e3af6959e6b5")
-	)
-	(no_connect
-		(at 87.63 50.8)
-		(uuid "a6419bad-e56d-42cb-868d-2a062eb78952")
 	)
 	(no_connect
 		(at 87.63 76.2)
@@ -2171,10 +2155,6 @@
 	(no_connect
 		(at 87.63 104.14)
 		(uuid "b689a00b-33a3-4f53-9d29-aa6f4fb23b8a")
-	)
-	(no_connect
-		(at 87.63 60.96)
-		(uuid "b7d20c2b-ee6d-4ce1-a303-ab6cefb11b5c")
 	)
 	(no_connect
 		(at 87.63 93.98)
@@ -2205,20 +2185,12 @@
 		(uuid "e5542810-0385-4b1b-b8de-03a123528151")
 	)
 	(no_connect
-		(at 87.63 66.04)
-		(uuid "f0848bd0-2c96-4d89-8d04-46f51c912d33")
-	)
-	(no_connect
 		(at 87.63 40.64)
 		(uuid "f992e335-aec5-4944-ad5c-d7ec34d6a329")
 	)
 	(no_connect
 		(at 87.63 45.72)
 		(uuid "fe743086-51e3-4730-b160-739ca7ade0ad")
-	)
-	(no_connect
-		(at 87.63 55.88)
-		(uuid "fffb3ff6-a307-42e2-bdcb-bf006083d1b2")
 	)
 	(wire
 		(pts
@@ -2350,6 +2322,94 @@
 		)
 		(uuid "f5177a3d-219a-46a1-b28b-539a92b9cdbf")
 	)
+	(global_label "BTN_COL3"
+		(shape input)
+		(at 87.63 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "07422f3b-1d30-4456-ad06-6df4334d9d56")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.989 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BTN_ROW3"
+		(shape input)
+		(at 87.63 55.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "09d4ca87-2dda-4453-982d-b828295a4db6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.4123 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BTN_ROW2"
+		(shape input)
+		(at 87.63 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "56cc4d26-cb3a-49f5-a62b-1f0619f1ccc7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.4123 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BTN_ROW1"
+		(shape input)
+		(at 87.63 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "65704a21-3ecb-41d2-bf24-ecfbb5463e0d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.4123 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB_DN"
 		(shape input)
 		(at 36.83 43.18 180)
@@ -2368,6 +2428,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BTN_COL1"
+		(shape input)
+		(at 87.63 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8db0bd88-c9ee-462b-a148-e065fc7be050")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.989 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -2460,6 +2542,28 @@
 			)
 		)
 	)
+	(global_label "BTN_ROW4"
+		(shape input)
+		(at 87.63 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e3b9773d-6a52-4ae6-909f-1e17500ceea9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.4123 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "XIN"
 		(shape input)
 		(at 36.83 78.74 180)
@@ -2500,6 +2604,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BTN_COL2"
+		(shape input)
+		(at 87.63 63.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fe46f05c-7148-498e-b6df-f86c0c80415f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.989 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
