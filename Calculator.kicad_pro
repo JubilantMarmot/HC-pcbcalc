@@ -394,6 +394,10 @@
     [
       "1a7255e3-a9fe-40c2-adc4-0b65fb9a09a8",
       "USB"
+    ],
+    [
+      "6d20d645-b399-44be-a696-f60ab8ffa901",
+      "Buttons"
     ]
   ],
   "text_variables": {}
