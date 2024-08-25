@@ -380,42 +380,6 @@
 		(uuid "04f33487-4228-4292-a127-c169b9eaddf8")
 	)
 	(junction
-		(at 208.28 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "05faf9d0-6656-4dc2-b3b3-99f9de45e220")
-	)
-	(junction
-		(at 227.33 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "096f923f-f2eb-4e0a-bf19-d5fed79e9dd0")
-	)
-	(junction
-		(at 271.78 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0cb4b868-95f7-43ce-a1c9-772d15bb3c0a")
-	)
-	(junction
-		(at 229.87 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0eb20354-bc31-42ce-b940-98b6dc279030")
-	)
-	(junction
-		(at 248.92 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0f1bbc55-7834-48e4-8e43-cf2e77e9a7f6")
-	)
-	(junction
-		(at 205.74 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "132d8389-545a-473e-8832-adeb9adc77f0")
-	)
-	(junction
 		(at 69.85 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -428,46 +392,16 @@
 		(uuid "1b1ca429-5063-48b5-b0e9-ee1b4e1e3b12")
 	)
 	(junction
-		(at 208.28 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1c9aaa5c-e805-4e68-aa8f-8ef8241f0574")
-	)
-	(junction
-		(at 186.69 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "232f4968-f126-4462-9729-b36277492c45")
-	)
-	(junction
 		(at 69.85 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "255ba70c-d999-4c87-a307-aee0661b4785")
 	)
 	(junction
-		(at 248.92 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "26cf26e1-a8bc-44c0-95aa-bac65ea3d7b8")
-	)
-	(junction
 		(at 69.85 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2beb96c6-f651-49fb-87a0-9ae991095c3a")
-	)
-	(junction
-		(at 229.87 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "44a6a6a4-7557-4dde-b7df-1747a46e4026")
-	)
-	(junction
-		(at 205.74 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "477cb0fd-2cf5-47cb-8297-1ed462a34da3")
 	)
 	(junction
 		(at 67.31 63.5)
@@ -492,12 +426,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5f0a75c2-a2e6-4151-b3f8-ef382b094bae")
-	)
-	(junction
-		(at 186.69 31.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "602656b2-fc06-4063-a14f-6eaceed15148")
 	)
 	(junction
 		(at 91.44 25.4)
@@ -554,12 +482,6 @@
 		(uuid "6ef4d0c3-72ad-4957-b51e-9801f2a583da")
 	)
 	(junction
-		(at 271.78 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "71450f41-69d1-4dfb-b869-ff787c8b8764")
-	)
-	(junction
 		(at 88.9 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -596,30 +518,6 @@
 		(uuid "7c9b7a73-a8a5-4125-8301-76943a6abcc4")
 	)
 	(junction
-		(at 227.33 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7edaebb1-1714-4822-9570-797e93965a7e")
-	)
-	(junction
-		(at 205.74 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "82a362d7-82b2-4cbe-bd85-ce903c3e9384")
-	)
-	(junction
-		(at 208.28 31.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "837d9ba6-e62e-4b08-b433-6f8f3d4efe3c")
-	)
-	(junction
-		(at 186.69 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8589c144-a152-4d4e-8849-9b0cef61557a")
-	)
-	(junction
 		(at 110.49 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -630,18 +528,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "884b1c64-de11-4e14-be0a-8c6acc6a6d87")
-	)
-	(junction
-		(at 229.87 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "88b38886-12bc-40d7-ae13-504e66533c30")
-	)
-	(junction
-		(at 229.87 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8c9949ff-67a4-4789-a452-a3e5a5526420")
 	)
 	(junction
 		(at 110.49 49.53)
@@ -656,34 +542,10 @@
 		(uuid "900ef285-2553-4cdd-8a26-1173fb0c20f2")
 	)
 	(junction
-		(at 208.28 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "937a34b4-e656-422f-8e9b-95785aabdb20")
-	)
-	(junction
-		(at 186.69 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "980c8e1b-e387-4563-bbce-c571fc25803b")
-	)
-	(junction
 		(at 88.9 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9eac6f9b-2d7b-4aaa-94b4-000966834117")
-	)
-	(junction
-		(at 208.28 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "aa5b303e-9af9-4a35-b889-ec4050df82a9")
-	)
-	(junction
-		(at 229.87 31.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "abe7e8ab-1a1b-48d5-b9e7-7e4acb748dc7")
 	)
 	(junction
 		(at 110.49 105.41)
@@ -692,34 +554,10 @@
 		(uuid "af613c6a-760d-42b4-aeeb-eaa339f084cf")
 	)
 	(junction
-		(at 229.87 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b4f085e0-3ba1-4896-8312-214ae78e48bd")
-	)
-	(junction
-		(at 205.74 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b8f6f321-7ae1-4520-9f9c-e490cd96bd24")
-	)
-	(junction
 		(at 110.49 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b9637324-ccca-465c-b9bd-bbea00f1769f")
-	)
-	(junction
-		(at 186.69 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c214c7c6-fc03-4701-9b83-75a9de4e191e")
-	)
-	(junction
-		(at 208.28 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cb3dcac6-87d9-451a-85ff-0eaac7299145")
 	)
 	(junction
 		(at 69.85 25.4)
@@ -740,82 +578,16 @@
 		(uuid "d9716917-e822-4f1e-922a-bcee5ec19f97")
 	)
 	(junction
-		(at 227.33 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d9d8757a-9d1a-4dfd-8ef2-b4e5db169f4e")
-	)
-	(junction
-		(at 271.78 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "db1d3d29-2312-4d5a-91de-454f244606a3")
-	)
-	(junction
 		(at 48.26 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dc1d675b-1442-4575-b64c-31950b8d3c7a")
 	)
 	(junction
-		(at 186.69 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "df542b07-cb53-4017-9fed-873783c50d89")
-	)
-	(junction
 		(at 48.26 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e367713f-c691-4483-a7b4-2578135f420c")
-	)
-	(junction
-		(at 271.78 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eca88ee5-7bc3-4fef-b7d8-d4ca83fcb046")
-	)
-	(junction
-		(at 227.33 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ed64d863-8a2b-4727-80c9-1d92fe97b400")
-	)
-	(junction
-		(at 205.74 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f0135583-26ed-4fba-94ef-ea42275c89ef")
-	)
-	(junction
-		(at 248.92 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f769a79a-28b9-4235-828e-7a734dbe6646")
-	)
-	(junction
-		(at 248.92 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f788b413-cf57-4006-a0a5-a239568eb271")
-	)
-	(junction
-		(at 271.78 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f8a2b74d-c420-4928-914f-c79a96e90333")
-	)
-	(junction
-		(at 227.33 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f8da8344-0a08-4c6b-b5a4-e5ebe0033803")
-	)
-	(junction
-		(at 248.92 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f9060fb3-0eee-4bc4-8c02-0c83b4d8af57")
 	)
 	(wire
 		(pts
@@ -826,16 +598,6 @@
 			(type default)
 		)
 		(uuid "01492098-d833-41be-a34d-20f6f9c783f5")
-	)
-	(wire
-		(pts
-			(xy 229.87 83.82) (xy 231.14 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "023a534e-e963-4924-9d9a-dab2686927ec")
 	)
 	(wire
 		(pts
@@ -889,36 +651,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 83.82) (xy 227.33 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f20a375-52ff-422a-be6f-b87e51c757e7")
-	)
-	(wire
-		(pts
-			(xy 251.46 69.85) (xy 254 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f9e1888-3c3b-455a-9791-af395258dff7")
-	)
-	(wire
-		(pts
-			(xy 251.46 87.63) (xy 229.87 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10df8054-4ee3-421d-9232-2ea39fd4a2a1")
-	)
-	(wire
-		(pts
 			(xy 38.1 81.28) (xy 48.26 81.28)
 		)
 		(stroke
@@ -926,46 +658,6 @@
 			(type default)
 		)
 		(uuid "11cd2f06-f60d-4c45-98af-0ff1281f984d")
-	)
-	(wire
-		(pts
-			(xy 271.78 55.88) (xy 271.78 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "13b51970-6337-4a30-90e2-19f0fe1b9f6c")
-	)
-	(wire
-		(pts
-			(xy 227.33 41.91) (xy 227.33 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1585bcd1-4525-4088-ab3d-e27a2d93696c")
-	)
-	(wire
-		(pts
-			(xy 229.87 101.6) (xy 208.28 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16b41a29-1716-4c5c-a9ae-b4ed96951a26")
-	)
-	(wire
-		(pts
-			(xy 176.53 101.6) (xy 186.69 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17f10437-1867-43d2-99c2-62a1430b5f2e")
 	)
 	(wire
 		(pts
@@ -1009,36 +701,6 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 111.76) (xy 231.14 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d4883a8-52fe-4658-a85d-b33bdda0c1af")
-	)
-	(wire
-		(pts
-			(xy 229.87 41.91) (xy 229.87 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e0aeed0-1c68-4c18-8f1a-9d0909fe2d7e")
-	)
-	(wire
-		(pts
-			(xy 229.87 97.79) (xy 231.14 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e22708d-f579-4fc3-a393-6eab1d066272")
-	)
-	(wire
-		(pts
 			(xy 113.03 77.47) (xy 115.57 77.47)
 		)
 		(stroke
@@ -1046,56 +708,6 @@
 			(type default)
 		)
 		(uuid "1e3542e0-db70-4ff9-8cd1-7eef2de3d7d9")
-	)
-	(wire
-		(pts
-			(xy 227.33 111.76) (xy 227.33 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ea2416f-8449-4119-bc07-38123f73a017")
-	)
-	(wire
-		(pts
-			(xy 186.69 111.76) (xy 187.96 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1eba3aaf-6d89-4816-a5e6-c1b45ee05658")
-	)
-	(wire
-		(pts
-			(xy 176.53 73.66) (xy 186.69 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f4bd3ad-59ff-4535-a56c-ac9ce4ab82dc")
-	)
-	(wire
-		(pts
-			(xy 208.28 101.6) (xy 186.69 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2103f923-ee23-4a89-80d4-a5232df20ec7")
-	)
-	(wire
-		(pts
-			(xy 251.46 55.88) (xy 254 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22f3291c-f8b0-4d4a-80eb-51f438cec5e7")
 	)
 	(wire
 		(pts
@@ -1109,36 +721,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 59.69) (xy 186.69 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25028e76-1cd7-469d-9250-085a98310588")
-	)
-	(wire
-		(pts
-			(xy 186.69 83.82) (xy 186.69 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25a9f5f1-c31a-4919-b3d6-76f61d1827e5")
-	)
-	(wire
-		(pts
-			(xy 251.46 69.85) (xy 251.46 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27b77c82-895d-4a75-8b60-c5ce2c2c9dce")
-	)
-	(wire
-		(pts
 			(xy 67.31 91.44) (xy 67.31 105.41)
 		)
 		(stroke
@@ -1146,26 +728,6 @@
 			(type default)
 		)
 		(uuid "27bdcae0-0e80-4103-85fe-fb8bd5d8366c")
-	)
-	(wire
-		(pts
-			(xy 186.69 41.91) (xy 187.96 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a8dafd7-d86f-4697-bf15-f98713afbbd5")
-	)
-	(wire
-		(pts
-			(xy 271.78 97.79) (xy 271.78 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2deaf6c1-649b-4871-9abc-07c97eec4d68")
 	)
 	(wire
 		(pts
@@ -1179,26 +741,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 87.63) (xy 186.69 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3055ac79-428c-4c07-b162-f6315bdb0453")
-	)
-	(wire
-		(pts
-			(xy 208.28 97.79) (xy 208.28 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "320f4d91-e45e-41cd-b335-b1d8c30cfc71")
-	)
-	(wire
-		(pts
 			(xy 113.03 91.44) (xy 113.03 81.28)
 		)
 		(stroke
@@ -1209,16 +751,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 69.85) (xy 227.33 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32f1e81c-c901-4da2-8fff-00ec5f9a4d26")
-	)
-	(wire
-		(pts
 			(xy 113.03 105.41) (xy 113.03 95.25)
 		)
 		(stroke
@@ -1226,36 +758,6 @@
 			(type default)
 		)
 		(uuid "349087ad-cfb1-4812-9140-1c1655dd401a")
-	)
-	(wire
-		(pts
-			(xy 205.74 55.88) (xy 205.74 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3591e39c-af1d-4faf-a0eb-310a4337aa8c")
-	)
-	(wire
-		(pts
-			(xy 271.78 111.76) (xy 271.78 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3602954c-e7fb-4ca1-9588-4eaf061f2640")
-	)
-	(wire
-		(pts
-			(xy 271.78 69.85) (xy 271.78 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b0540c5-8086-4bf8-ab1b-d25254a972f5")
 	)
 	(wire
 		(pts
@@ -1299,36 +801,6 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 73.66) (xy 208.28 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ddbc691-5b52-408d-8966-696f67d3bfdd")
-	)
-	(wire
-		(pts
-			(xy 229.87 69.85) (xy 231.14 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ddc4ccc-8548-4386-a286-aafd0f0d4287")
-	)
-	(wire
-		(pts
-			(xy 251.46 41.91) (xy 251.46 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e095d26-846d-4bac-a765-abfb96f99589")
-	)
-	(wire
-		(pts
 			(xy 133.35 63.5) (xy 133.35 77.47)
 		)
 		(stroke
@@ -1339,16 +811,6 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 97.79) (xy 229.87 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ea454c6-3454-45f8-9837-95bbd13bb03d")
-	)
-	(wire
-		(pts
 			(xy 110.49 105.41) (xy 110.49 120.65)
 		)
 		(stroke
@@ -1356,26 +818,6 @@
 			(type default)
 		)
 		(uuid "3ed4fa9b-bc5c-414e-a532-692d6af427f1")
-	)
-	(wire
-		(pts
-			(xy 208.28 31.75) (xy 186.69 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "414a7751-fdd9-433c-ad8a-7dfeb3594dda")
-	)
-	(wire
-		(pts
-			(xy 229.87 55.88) (xy 231.14 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "431b8035-6d49-42d1-bb41-7e199e1d2ab5")
 	)
 	(wire
 		(pts
@@ -1419,36 +861,6 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 111.76) (xy 205.74 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b37d2a3-df9b-414b-ba2d-53b73cd50d03")
-	)
-	(wire
-		(pts
-			(xy 229.87 69.85) (xy 229.87 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4cc4ea46-5089-4a11-9ecc-b26215e9e037")
-	)
-	(wire
-		(pts
-			(xy 208.28 41.91) (xy 209.55 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4e012961-af83-497e-ba19-1729d4452ec5")
-	)
-	(wire
-		(pts
 			(xy 91.44 53.34) (xy 69.85 53.34)
 		)
 		(stroke
@@ -1459,36 +871,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 111.76) (xy 186.69 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "518c4340-9d75-42ec-88ac-21e75916bc79")
-	)
-	(wire
-		(pts
-			(xy 208.28 69.85) (xy 209.55 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51c346e9-3fdb-4ae5-bd42-59a33f5479b5")
-	)
-	(wire
-		(pts
-			(xy 208.28 111.76) (xy 209.55 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "524f12ff-9480-49d6-87f2-0ab8132f63e7")
-	)
-	(wire
-		(pts
 			(xy 67.31 35.56) (xy 67.31 49.53)
 		)
 		(stroke
@@ -1496,16 +878,6 @@
 			(type default)
 		)
 		(uuid "534124a9-b3a6-4a6e-b8e3-5ee8ec412720")
-	)
-	(wire
-		(pts
-			(xy 205.74 41.91) (xy 205.74 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5397a06a-b335-434a-9bc0-f1c8b8f54e99")
 	)
 	(wire
 		(pts
@@ -1526,16 +898,6 @@
 			(type default)
 		)
 		(uuid "53caca36-2830-4e9d-b527-cef9acf441a5")
-	)
-	(wire
-		(pts
-			(xy 251.46 73.66) (xy 229.87 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5435af76-a02b-4e9d-b5de-880a5d3ba13d")
 	)
 	(wire
 		(pts
@@ -1579,26 +941,6 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 31.75) (xy 229.87 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5fd7eb55-ed5d-4cc6-a93d-24a23501498e")
-	)
-	(wire
-		(pts
-			(xy 208.28 55.88) (xy 209.55 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "647818e2-09c1-401c-8cab-be2757af068d")
-	)
-	(wire
-		(pts
 			(xy 38.1 67.31) (xy 48.26 67.31)
 		)
 		(stroke
@@ -1606,16 +948,6 @@
 			(type default)
 		)
 		(uuid "653f04b2-5ce1-4a12-ba3a-a64df56c34f8")
-	)
-	(wire
-		(pts
-			(xy 227.33 55.88) (xy 227.33 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "670b5a81-832d-4048-89a9-4aca9768e48c")
 	)
 	(wire
 		(pts
@@ -1639,36 +971,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 45.72) (xy 186.69 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ad0f24a-438d-4fba-9fc4-fd5ac584d938")
-	)
-	(wire
-		(pts
-			(xy 251.46 41.91) (xy 254 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ad61ff9-6803-4d69-aef3-1415f2b1f007")
-	)
-	(wire
-		(pts
-			(xy 208.28 59.69) (xy 186.69 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b087dc4-5e84-43f4-ac01-d0403863714c")
-	)
-	(wire
-		(pts
 			(xy 91.44 81.28) (xy 69.85 81.28)
 		)
 		(stroke
@@ -1679,26 +981,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 97.79) (xy 187.96 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71485f72-68a2-4979-b047-1d36e49500cf")
-	)
-	(wire
-		(pts
-			(xy 208.28 97.79) (xy 209.55 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "723c9dce-fa53-491f-90f6-8adfcc30e1a0")
-	)
-	(wire
-		(pts
 			(xy 88.9 49.53) (xy 88.9 63.5)
 		)
 		(stroke
@@ -1706,16 +988,6 @@
 			(type default)
 		)
 		(uuid "72e63c18-f093-48d5-82af-a2dc5e3a3b28")
-	)
-	(wire
-		(pts
-			(xy 248.92 111.76) (xy 248.92 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73e24954-56ff-41d2-ad5b-b24fa17dc4bc")
 	)
 	(wire
 		(pts
@@ -1769,56 +1041,6 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 45.72) (xy 229.87 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8016aca5-4387-4647-b202-17e8b1f2a291")
-	)
-	(wire
-		(pts
-			(xy 186.69 83.82) (xy 187.96 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8073c527-9ec4-42bc-bf00-d524918c3fcb")
-	)
-	(wire
-		(pts
-			(xy 208.28 83.82) (xy 209.55 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83ee686d-5909-4085-9f6a-f39b2bd41060")
-	)
-	(wire
-		(pts
-			(xy 208.28 69.85) (xy 208.28 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84016720-aa06-43b9-9d79-0772fa3eae5c")
-	)
-	(wire
-		(pts
-			(xy 248.92 41.91) (xy 248.92 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86b2b0e3-7bce-48c5-b28c-5f561a60830d")
-	)
-	(wire
-		(pts
 			(xy 91.44 39.37) (xy 69.85 39.37)
 		)
 		(stroke
@@ -1836,26 +1058,6 @@
 			(type default)
 		)
 		(uuid "8a36f030-18b1-4804-9f34-3b364f63d1f0")
-	)
-	(wire
-		(pts
-			(xy 205.74 83.82) (xy 205.74 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b5100dc-b5db-4ff5-ad20-4d44416ac342")
-	)
-	(wire
-		(pts
-			(xy 271.78 41.91) (xy 271.78 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8bb428d5-dbeb-4161-9683-0a3eb9740975")
 	)
 	(wire
 		(pts
@@ -1886,56 +1088,6 @@
 			(type default)
 		)
 		(uuid "9032d2d8-c875-4e6e-819c-774bf2b97020")
-	)
-	(wire
-		(pts
-			(xy 251.46 97.79) (xy 254 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90ef7a4b-d710-4b1d-b031-5ef66415afa5")
-	)
-	(wire
-		(pts
-			(xy 229.87 41.91) (xy 231.14 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "91d12603-a8cc-4458-99e8-ff281c3e1f33")
-	)
-	(wire
-		(pts
-			(xy 208.28 83.82) (xy 208.28 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "93d6760f-7c2b-49f3-8ddb-ad9f47c2a685")
-	)
-	(wire
-		(pts
-			(xy 271.78 83.82) (xy 271.78 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9509f1d7-82a5-4421-b1c9-88be12f32377")
-	)
-	(wire
-		(pts
-			(xy 251.46 83.82) (xy 254 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "966f7221-db79-41d3-96b2-0fd6f13a31f3")
 	)
 	(wire
 		(pts
@@ -1999,16 +1151,6 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 55.88) (xy 248.92 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9bdab194-15d6-4437-bcae-6553cdd3ed79")
-	)
-	(wire
-		(pts
 			(xy 133.35 49.53) (xy 133.35 63.5)
 		)
 		(stroke
@@ -2016,26 +1158,6 @@
 			(type default)
 		)
 		(uuid "9cee8055-6219-46f4-9140-2d6036f71e75")
-	)
-	(wire
-		(pts
-			(xy 251.46 59.69) (xy 229.87 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f9e246c-15cf-4067-a2fc-b32d6c4cf549")
-	)
-	(wire
-		(pts
-			(xy 205.74 69.85) (xy 205.74 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a038fa85-3a10-416c-8899-915aadf294f4")
 	)
 	(wire
 		(pts
@@ -2059,16 +1181,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 97.79) (xy 227.33 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a51345b4-1eb9-49e1-b7e0-6cb03b65eb9e")
-	)
-	(wire
-		(pts
 			(xy 38.1 95.25) (xy 48.26 95.25)
 		)
 		(stroke
@@ -2089,26 +1201,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 55.88) (xy 208.28 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a880345c-65ed-4828-be96-dad83caba9ce")
-	)
-	(wire
-		(pts
-			(xy 251.46 111.76) (xy 254 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a91c7076-d570-4ab8-80ab-edda3c328bbc")
-	)
-	(wire
-		(pts
 			(xy 48.26 35.56) (xy 48.26 25.4)
 		)
 		(stroke
@@ -2119,26 +1211,6 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 59.69) (xy 208.28 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa985fb9-2690-43fa-be4b-30ee07b4683e")
-	)
-	(wire
-		(pts
-			(xy 208.28 41.91) (xy 208.28 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b24eb80b-760f-4f96-90cd-c66b719af5b0")
-	)
-	(wire
-		(pts
 			(xy 48.26 77.47) (xy 48.26 67.31)
 		)
 		(stroke
@@ -2146,16 +1218,6 @@
 			(type default)
 		)
 		(uuid "b25fa873-55d1-491d-8432-d930144aed44")
-	)
-	(wire
-		(pts
-			(xy 248.92 83.82) (xy 248.92 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b34fcf34-b6d0-4cec-b5ea-3f711032d18f")
 	)
 	(wire
 		(pts
@@ -2219,16 +1281,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 87.63) (xy 186.69 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be19ffde-04a3-46b6-be84-21f4c11d7015")
-	)
-	(wire
-		(pts
 			(xy 91.44 25.4) (xy 69.85 25.4)
 		)
 		(stroke
@@ -2246,16 +1298,6 @@
 			(type default)
 		)
 		(uuid "c2689206-aae4-46b1-bf5d-d015e7765ddf")
-	)
-	(wire
-		(pts
-			(xy 251.46 111.76) (xy 251.46 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3942935-430b-4bc6-9267-a65a37e7b05a")
 	)
 	(wire
 		(pts
@@ -2299,16 +1341,6 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 83.82) (xy 229.87 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7cb2962-9eb2-4c1f-939c-d93f7ce19ab2")
-	)
-	(wire
-		(pts
 			(xy 48.26 105.41) (xy 48.26 95.25)
 		)
 		(stroke
@@ -2339,56 +1371,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 73.66) (xy 186.69 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cbd59b3c-7959-4b00-b59c-4794e395c0a2")
-	)
-	(wire
-		(pts
-			(xy 251.46 55.88) (xy 251.46 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd11d661-fbd1-4f9a-ba40-bdbd20d4f385")
-	)
-	(wire
-		(pts
-			(xy 208.28 111.76) (xy 208.28 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d194a757-612a-479b-acf7-eac0575f5b8e")
-	)
-	(wire
-		(pts
-			(xy 186.69 69.85) (xy 187.96 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1bd17b4-3c7f-462d-81d1-29547d0c5d3d")
-	)
-	(wire
-		(pts
-			(xy 186.69 31.75) (xy 176.53 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1be5dd1-63f0-4a83-a096-3c8abac3075e")
-	)
-	(wire
-		(pts
 			(xy 133.35 77.47) (xy 133.35 91.44)
 		)
 		(stroke
@@ -2409,16 +1391,6 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 101.6) (xy 229.87 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4096e58-64cf-44fb-9d46-c140b93a6402")
-	)
-	(wire
-		(pts
 			(xy 69.85 105.41) (xy 69.85 95.25)
 		)
 		(stroke
@@ -2426,36 +1398,6 @@
 			(type default)
 		)
 		(uuid "d484d2a6-4f73-43d6-adc6-4f35f119e7d9")
-	)
-	(wire
-		(pts
-			(xy 248.92 69.85) (xy 248.92 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d986d998-4d80-4c87-a437-5dd4919423ab")
-	)
-	(wire
-		(pts
-			(xy 229.87 45.72) (xy 208.28 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9ea8f36-dd6c-4bd7-bc64-fd7f48188f2c")
-	)
-	(wire
-		(pts
-			(xy 186.69 97.79) (xy 186.69 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9f04ad6-2ece-4b77-8deb-c145df31460c")
 	)
 	(wire
 		(pts
@@ -2469,26 +1411,6 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 55.88) (xy 229.87 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd44115b-6655-4e27-afa7-b7654b08ce25")
-	)
-	(wire
-		(pts
-			(xy 229.87 31.75) (xy 208.28 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dddc53ab-8ea0-4494-9320-75653927805e")
-	)
-	(wire
-		(pts
 			(xy 67.31 63.5) (xy 67.31 77.47)
 		)
 		(stroke
@@ -2496,16 +1418,6 @@
 			(type default)
 		)
 		(uuid "dde78de9-beee-433d-9d4e-4e8083558512")
-	)
-	(wire
-		(pts
-			(xy 251.46 97.79) (xy 251.46 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "de1d3a7e-9ea1-4ca9-ad8f-153215084862")
 	)
 	(wire
 		(pts
@@ -2529,16 +1441,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 45.72) (xy 186.69 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dfa9d3ea-d880-478b-b139-99ac6ee3d094")
-	)
-	(wire
-		(pts
 			(xy 69.85 91.44) (xy 71.12 91.44)
 		)
 		(stroke
@@ -2546,46 +1448,6 @@
 			(type default)
 		)
 		(uuid "e12f8e8f-4395-47e1-b491-1e41e01499e2")
-	)
-	(wire
-		(pts
-			(xy 186.69 55.88) (xy 187.96 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e227cf9d-76bf-4d1f-a597-07c8d1adf3d6")
-	)
-	(wire
-		(pts
-			(xy 186.69 69.85) (xy 186.69 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e29b5d38-4118-4bce-a436-57acf6f22535")
-	)
-	(wire
-		(pts
-			(xy 248.92 97.79) (xy 248.92 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e3d16d27-2825-48a1-b06e-08ef74ae9066")
-	)
-	(wire
-		(pts
-			(xy 229.87 87.63) (xy 208.28 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e3dcd19a-ed2d-43b4-91f7-a0da07268e7f")
 	)
 	(wire
 		(pts
@@ -2629,16 +1491,6 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 97.79) (xy 205.74 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e8169081-981c-40f4-a79d-fa6328f996a8")
-	)
-	(wire
-		(pts
 			(xy 91.44 49.53) (xy 92.71 49.53)
 		)
 		(stroke
@@ -2659,26 +1511,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 45.72) (xy 186.69 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea9810c6-2b54-4f74-b4fb-d982a94f43f4")
-	)
-	(wire
-		(pts
-			(xy 251.46 83.82) (xy 251.46 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb2340a5-1c75-491c-b44a-87dd0f2c4c5c")
-	)
-	(wire
-		(pts
 			(xy 133.35 35.56) (xy 133.35 49.53)
 		)
 		(stroke
@@ -2696,26 +1528,6 @@
 			(type default)
 		)
 		(uuid "f3cc7ce7-828a-42ef-aee9-f6710974f3ca")
-	)
-	(wire
-		(pts
-			(xy 229.87 111.76) (xy 229.87 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5a48631-45bf-4c0c-b4a2-465f37d226ad")
-	)
-	(wire
-		(pts
-			(xy 186.69 41.91) (xy 186.69 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f6443d2a-4179-47e0-94e7-5a2eb0ae537b")
 	)
 	(wire
 		(pts
@@ -2759,94 +1571,6 @@
 			)
 		)
 	)
-	(global_label "BTN_ROW3"
-		(shape input)
-		(at 176.53 59.69 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1a9ef26c-c6cf-4606-a53a-219660c6ea2f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.7477 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BTN_ROW1"
-		(shape input)
-		(at 176.53 31.75 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "22674624-47d4-4f77-9e31-7fd55a2b1ad3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.7477 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BTN_ROW6"
-		(shape input)
-		(at 176.53 101.6 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "24c2382b-ed93-4dd5-8e75-9dd9d8dae1fa")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.7477 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BTN_ROW2"
-		(shape input)
-		(at 176.53 45.72 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "2b5f5b7b-67e0-4695-b8c4-65b36d6fc56e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.7477 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "BTN_COL2"
 		(shape input)
 		(at 88.9 120.65 270)
@@ -2860,28 +1584,6 @@
 		(uuid "2c52dd0f-8a48-4caa-9c95-3e37165a8303")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 88.9 133.009 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BTN_COL4"
-		(shape input)
-		(at 271.78 127 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "2efe1654-5477-4acd-b234-7b5b5383cd12")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 271.78 139.359 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2913,72 +1615,6 @@
 			)
 		)
 	)
-	(global_label "BTN_ROW4"
-		(shape input)
-		(at 176.53 73.66 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5f67882d-ee2f-4eb1-87ab-ce5cec75520d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.7477 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BTN_COL3"
-		(shape input)
-		(at 248.92 127 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "62e8939d-5ccf-4375-8a5b-c3f82f58ed8b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 248.92 139.359 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BTN_COL1"
-		(shape input)
-		(at 205.74 127 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "6e2f87bc-ee6b-4ada-9af4-b978e9061275")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 205.74 139.359 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "BTN_ROW6"
 		(shape input)
 		(at 38.1 95.25 180)
@@ -2992,28 +1628,6 @@
 		(uuid "881d650e-42fe-455b-bcf0-78f323c6fb2e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 25.3177 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BTN_COL2"
-		(shape input)
-		(at 227.33 127 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8cefd766-d1ad-4489-82d1-44a574b4dfa8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 227.33 139.359 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3152,250 +1766,6 @@
 				)
 				(justify right)
 				(hide yes)
-			)
-		)
-	)
-	(global_label "BTN_ROW5"
-		(shape input)
-		(at 176.53 87.63 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f6a4aa6f-0f96-41fd-ac67-1625d6d34ec3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.7477 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 259.08 69.85 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "003220d2-569c-460e-8272-2e4203d55799")
-		(property "Reference" "SW46"
-			(at 259.08 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 259.08 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 259.08 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 259.08 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 259.08 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a7748fad-df4e-4a25-a783-9e82a0dfaee1")
-		)
-		(pin "4"
-			(uuid "929ffb16-2724-4be8-9abf-bb983eefd421")
-		)
-		(pin "3"
-			(uuid "b343f9bf-137c-49ac-aa58-24c1eac37302")
-		)
-		(pin "2"
-			(uuid "7843499f-a002-4fa0-bc54-18e8b8a2b4f2")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 193.04 69.85 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "012caa8f-8d5b-404d-b13f-0eaba9aa3dd9")
-		(property "Reference" "SW28"
-			(at 193.04 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 193.04 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 193.04 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 193.04 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 193.04 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ed278ff8-4149-45d0-b340-4214e8959216")
-		)
-		(pin "4"
-			(uuid "5584363b-a7d6-468f-a1cf-39f2125b80a3")
-		)
-		(pin "3"
-			(uuid "7bde3e0c-7e89-4398-b821-050dbc096005")
-		)
-		(pin "2"
-			(uuid "0aad0024-5359-4cf7-b5a2-8d12ad814633")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 214.63 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0363c975-c748-46df-b232-96716c23e549")
-		(property "Reference" "SW37"
-			(at 214.63 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 214.63 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 214.63 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 214.63 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 214.63 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d9d95322-fdb8-4175-862b-858b31aa2932")
-		)
-		(pin "4"
-			(uuid "48446351-d7dd-451b-821b-cd3c83b27d51")
-		)
-		(pin "3"
-			(uuid "8b4a423a-3898-4e0b-8369-800026b3b56c")
-		)
-		(pin "2"
-			(uuid "e4e9af69-b39d-4ffd-8ba7-73dd73b2401e")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW37")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -3719,178 +2089,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 201.93 41.91 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0857e297-e24d-4b2f-b42d-85dddd5032bd")
-		(property "Reference" "D25"
-			(at 201.93 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 201.93 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 201.93 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 201.93 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 201.93 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 201.93 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "522ac5a9-98ca-41c3-86af-f409dea0c278")
-		)
-		(pin "1"
-			(uuid "ab43c748-be3d-4d9e-bb65-620bdbc9504d")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 201.93 111.76 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "09458a09-3fe6-47a7-86f4-d1828d35fc6a")
-		(property "Reference" "D30"
-			(at 201.93 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 201.93 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 201.93 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 201.93 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 201.93 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 201.93 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "dbe0875c-8288-4a81-886b-30bb8359ea23")
-		)
-		(pin "1"
-			(uuid "d623963b-91ee-418d-96b9-75f7d17dd7da")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_MEC_5G")
 		(at 120.65 35.56 0)
 		(unit 1)
@@ -4051,176 +2249,6 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 245.11 111.76 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0f1b6129-9c69-4580-92a9-d9e490036765")
-		(property "Reference" "D42"
-			(at 245.11 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 245.11 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 245.11 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 245.11 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 245.11 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 245.11 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 245.11 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "535e0e35-a741-49d6-9d9d-05c6d1f7a9b5")
-		)
-		(pin "1"
-			(uuid "d3630454-7b2b-4692-8785-b4e0fcc3e198")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 245.11 69.85 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "13fbf272-9ce3-4667-890f-00127dffb4be")
-		(property "Reference" "D39"
-			(at 245.11 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 245.11 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 245.11 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 245.11 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 245.11 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 245.11 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 245.11 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "539457f7-2569-46d1-be51-8da357063036")
-		)
-		(pin "1"
-			(uuid "ed7d1faf-8657-4e3c-9d5c-741356186b96")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
 		(at 85.09 77.47 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4307,80 +2335,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_MEC_5G")
-		(at 193.04 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1d605c48-882c-44d5-8151-fcccd0ca042c")
-		(property "Reference" "SW30"
-			(at 193.04 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 193.04 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 193.04 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 193.04 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 193.04 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4709a4de-87ea-488d-8bd8-5a8d5b1a65bc")
-		)
-		(pin "4"
-			(uuid "a4c5bf7b-ca29-448b-85bb-0561a98f921f")
-		)
-		(pin "3"
-			(uuid "55224012-18e5-4bb2-ba57-a049d0c54ae1")
-		)
-		(pin "2"
-			(uuid "6525ed25-faf7-4233-8537-7e7b5be90b2a")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
 		(at 97.79 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4448,154 +2402,6 @@
 			(project "Calculator"
 				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
 					(reference "SW23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 193.04 55.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1e47de18-44e1-4071-9aca-900ad1f93e11")
-		(property "Reference" "SW27"
-			(at 193.04 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 193.04 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 193.04 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 193.04 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 193.04 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "553f3375-dacf-41a7-8810-68a52da9ba48")
-		)
-		(pin "4"
-			(uuid "174a794a-1d8d-4ca9-bc1a-d2e8464f2b4b")
-		)
-		(pin "3"
-			(uuid "71ff88a3-68f9-4e7c-962a-88465083f2d8")
-		)
-		(pin "2"
-			(uuid "cd7e4de9-16c8-4c56-b77b-a08b2d8a0b44")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 236.22 69.85 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "240d9023-a603-47e1-a957-08bfe8fa6263")
-		(property "Reference" "SW40"
-			(at 236.22 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 236.22 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 236.22 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 236.22 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 236.22 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0109ebf2-438a-43a9-9ebf-a1ef2743532b")
-		)
-		(pin "4"
-			(uuid "6c57d18c-c174-4ef6-a7c8-df2b903cca68")
-		)
-		(pin "3"
-			(uuid "b9f0965e-cded-442b-8510-a03d3ce0bc61")
-		)
-		(pin "2"
-			(uuid "22c48b90-2a26-4f46-a0e3-bba09a4fadad")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW40")
 					(unit 1)
 				)
 			)
@@ -5179,326 +2985,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 259.08 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3b6c72e9-aa7a-4804-8539-eb862d5a0b70")
-		(property "Reference" "SW48"
-			(at 259.08 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 259.08 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 259.08 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 259.08 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 259.08 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "626712b5-45a5-45f8-a0b5-88e824b394f0")
-		)
-		(pin "4"
-			(uuid "07a8939b-f0ad-406f-b12d-a99b5a23b72c")
-		)
-		(pin "3"
-			(uuid "5e3f11dd-69ba-4b78-b57e-658a328fa279")
-		)
-		(pin "2"
-			(uuid "85817698-26c3-45f5-93d2-e6e16624df1a")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW48")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 223.52 83.82 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3cf07df1-747b-4942-8816-a67de2c64acf")
-		(property "Reference" "D34"
-			(at 223.52 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 223.52 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 223.52 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 223.52 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 223.52 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a6727e55-f9b2-49b7-ae50-cad11fa93e99")
-		)
-		(pin "1"
-			(uuid "3739bccd-930d-498b-a680-b92b1cfd3d65")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 223.52 41.91 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4305c1aa-83c6-4089-a707-f575ed0af580")
-		(property "Reference" "D31"
-			(at 223.52 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 223.52 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 223.52 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 223.52 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 223.52 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "14fdd493-fdca-4c80-82ff-44f7fad8368e")
-		)
-		(pin "1"
-			(uuid "a6356769-1f7b-450c-bbe1-f680209967e7")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 193.04 83.82 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4c861022-c1b8-4ca6-b455-88f301d37dcc")
-		(property "Reference" "SW29"
-			(at 193.04 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 193.04 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 193.04 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 193.04 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 193.04 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fc246bbc-8f58-4369-904d-3961718aa1e9")
-		)
-		(pin "4"
-			(uuid "61248f10-c4cd-47b6-87fc-3c797b2750c9")
-		)
-		(pin "3"
-			(uuid "e8bd32e9-1374-491e-af37-031de479d083")
-		)
-		(pin "2"
-			(uuid "3e2da0c4-c729-4d22-ba34-8f650e2b7557")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 129.54 49.53 180)
 		(unit 1)
@@ -5670,92 +3156,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 223.52 111.76 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "54ad7a0b-3499-4d91-b83c-c7bcd6871c03")
-		(property "Reference" "D36"
-			(at 223.52 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 223.52 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 223.52 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 223.52 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 223.52 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "315eb3ae-482c-4d46-bd1f-aaeb10e15250")
-		)
-		(pin "1"
-			(uuid "0a0d5446-0b34-456a-8c47-08a37efdd0a1")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D36")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_MEC_5G")
 		(at 76.2 35.56 0)
 		(unit 1)
@@ -5824,80 +3224,6 @@
 			(project "Calculator"
 				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
 					(reference "SW3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 236.22 41.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "57c5d5d6-c6ff-43af-9ce3-9dfd9419fbd3")
-		(property "Reference" "SW38"
-			(at 236.22 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 236.22 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 236.22 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 236.22 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 236.22 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2093132d-10fe-405d-87a3-44c8f72225f9")
-		)
-		(pin "4"
-			(uuid "ad959ecf-76f1-4ea8-ab04-9da13bfd42ab")
-		)
-		(pin "3"
-			(uuid "5409fbf0-e85f-4fc4-a79f-58918c4130d4")
-		)
-		(pin "2"
-			(uuid "96a8b4bf-f80f-46cd-a510-0a23a244b599")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW38")
 					(unit 1)
 				)
 			)
@@ -6063,92 +3389,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 201.93 97.79 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "58dd061d-9137-4549-8b0a-f6d6acec3570")
-		(property "Reference" "D29"
-			(at 201.93 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 201.93 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 201.93 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 201.93 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 201.93 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 201.93 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "617136ac-6224-4997-8459-a8edf4847081")
-		)
-		(pin "1"
-			(uuid "28d7a5d5-3503-4da5-b29b-bc437dc50c19")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_MEC_5G")
 		(at 97.79 91.44 0)
 		(unit 1)
@@ -6217,91 +3457,6 @@
 			(project "Calculator"
 				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
 					(reference "SW22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 267.97 83.82 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "594ecb24-c49d-4d4e-870a-8a9a314c9144")
-		(property "Reference" "D46"
-			(at 267.97 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 267.97 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 267.97 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 267.97 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 267.97 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 267.97 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 267.97 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a17accab-a4e1-4156-b754-dc23dcf3c68c")
-		)
-		(pin "1"
-			(uuid "a7bf6c3d-8fc6-4984-83c6-9a5b17378f5e")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -6383,240 +3538,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_MEC_5G")
-		(at 214.63 69.85 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5bd96377-4f97-4ca3-a314-10e7348f165a")
-		(property "Reference" "SW34"
-			(at 214.63 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 214.63 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 214.63 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 214.63 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 214.63 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9dadeb59-0178-4a13-baaa-fa44f8021a5e")
-		)
-		(pin "4"
-			(uuid "807c010a-1f44-4d59-808d-89de0d06d1ff")
-		)
-		(pin "3"
-			(uuid "67c31f98-7b2f-4790-8e5d-6fdcff332139")
-		)
-		(pin "2"
-			(uuid "0589be22-ac40-4b28-8a58-dc8d10808fcc")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 214.63 83.82 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5d5e9c27-4dcc-47b1-b32f-6d5171cfd71d")
-		(property "Reference" "SW35"
-			(at 214.63 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 214.63 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 214.63 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 214.63 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 214.63 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f9310be7-d0e5-4f21-b652-2f5dcb40d264")
-		)
-		(pin "4"
-			(uuid "bf9833e7-47bc-4a51-8c3f-dfdf4aceda16")
-		)
-		(pin "3"
-			(uuid "e7b2798e-f276-49d4-a952-e42cdb748bac")
-		)
-		(pin "2"
-			(uuid "de5e5392-f03b-4663-ad81-4a27c2f9fcdc")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW35")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 223.52 97.79 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5f6c08c2-f7fb-4a7a-82b8-0102162bebe7")
-		(property "Reference" "D35"
-			(at 223.52 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 223.52 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 223.52 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 223.52 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 223.52 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6abd8269-5f6b-4ca1-855e-a528aed68c8b")
-		)
-		(pin "1"
-			(uuid "de966522-9b07-4404-8124-5b010ed6bbc4")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D35")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
 		(at 97.79 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6684,80 +3605,6 @@
 			(project "Calculator"
 				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
 					(reference "SW7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 259.08 83.82 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "607d594a-b7e4-458a-a724-4f4dcde1c745")
-		(property "Reference" "SW47"
-			(at 259.08 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 259.08 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 259.08 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 259.08 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 259.08 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "08edcabc-26ca-46cd-abf8-a56142ffc0c9")
-		)
-		(pin "4"
-			(uuid "e7121406-424f-4052-a5f6-dce08b70a839")
-		)
-		(pin "3"
-			(uuid "d06e07e5-be9c-4639-a5a0-7595528a09df")
-		)
-		(pin "2"
-			(uuid "9478e4f0-11ec-483a-9543-7cc71e57bab3")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW47")
 					(unit 1)
 				)
 			)
@@ -7083,91 +3930,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 245.11 41.91 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7379e518-1a2b-4560-aef0-9ceadc4ddb7d")
-		(property "Reference" "D37"
-			(at 245.11 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 245.11 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 245.11 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 245.11 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 245.11 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 245.11 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 245.11 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "feccdc1a-4f8b-4fcd-a692-f996211a2462")
-		)
-		(pin "1"
-			(uuid "87ebf47d-848d-4f8b-9ff9-df767ff853c6")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D37")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_MEC_5G")
 		(at 76.2 105.41 0)
 		(unit 1)
@@ -7328,92 +4090,6 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 223.52 55.88 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7e780dbb-ab30-4bfa-b2a3-ef910c9c53a2")
-		(property "Reference" "D32"
-			(at 223.52 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 223.52 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 223.52 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 223.52 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 223.52 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a574518b-5f5f-4cfd-898c-36de7c1606c3")
-		)
-		(pin "1"
-			(uuid "ba5b6953-712b-4dab-b048-4bd350b1aac4")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
 		(at 85.09 49.53 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7493,400 +4169,6 @@
 			(project "Calculator"
 				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
 					(reference "D5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 201.93 83.82 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "84183466-c834-4615-ac4f-6c703b00d26f")
-		(property "Reference" "D28"
-			(at 201.93 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 201.93 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 201.93 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 201.93 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 201.93 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 201.93 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8d1cbddb-38e0-4ff2-a1be-5cf4a81cf0cc")
-		)
-		(pin "1"
-			(uuid "28f19f7a-be48-4dfa-b1d3-7ad607ceb8db")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 236.22 83.82 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "848308f3-b5f7-4224-8329-2b6e3f3a3adf")
-		(property "Reference" "SW41"
-			(at 236.22 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 236.22 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 236.22 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 236.22 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 236.22 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "65b2f723-de6a-4811-9f87-32d967eee105")
-		)
-		(pin "4"
-			(uuid "a9f6d419-4142-4f7f-8926-b0470aadc498")
-		)
-		(pin "3"
-			(uuid "7e105230-581b-4422-bcd4-0d03b41adef2")
-		)
-		(pin "2"
-			(uuid "f6238730-389c-4392-b9f1-26069802fcfd")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 201.93 55.88 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "85fa3f2d-09f1-4160-89c0-d11b13e89fdd")
-		(property "Reference" "D26"
-			(at 201.93 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 201.93 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 201.93 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 201.93 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 201.93 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 201.93 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "bf858e60-dd87-49f1-be4d-430368a90782")
-		)
-		(pin "1"
-			(uuid "6b081ca9-3cfb-4dd3-a8c3-80d0951c79b1")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 214.63 55.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "88444574-7c9d-4c23-8ddd-de090feb8d93")
-		(property "Reference" "SW33"
-			(at 214.63 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 214.63 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 214.63 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 214.63 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 214.63 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "33834f59-5f84-408a-b0b5-e375b088cbcd")
-		)
-		(pin "4"
-			(uuid "4de76209-8ac4-480b-a0d5-1c5f836b1d75")
-		)
-		(pin "3"
-			(uuid "9056f1b2-463e-4103-a8ca-d3051a65058a")
-		)
-		(pin "2"
-			(uuid "a091e5fd-00b5-48a4-ac9c-9e8113e1c01e")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 193.04 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8bde7be1-48dd-46db-b752-e06f15624810")
-		(property "Reference" "SW31"
-			(at 193.04 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 193.04 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 193.04 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 193.04 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 193.04 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5f4e7a9e-04e1-4d1d-bae6-218d692212a8")
-		)
-		(pin "4"
-			(uuid "bd4100e7-9992-424d-89ee-a08eed17017e")
-		)
-		(pin "3"
-			(uuid "fecf89cf-27a4-4799-9c07-bedb106d441f")
-		)
-		(pin "2"
-			(uuid "d15d82c3-0777-44fa-811a-aebb24dcfb5f")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW31")
 					(unit 1)
 				)
 			)
@@ -8065,80 +4347,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 214.63 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "927c7cd8-1bff-4871-83f4-2a7d5cf78527")
-		(property "Reference" "SW36"
-			(at 214.63 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 214.63 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 214.63 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 214.63 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 214.63 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "986bb472-2944-4af5-8ebb-25819b9caf0c")
-		)
-		(pin "4"
-			(uuid "e8ed8330-ffa5-44eb-aeb5-5a685242df8d")
-		)
-		(pin "3"
-			(uuid "67cf0b4e-f61d-4c5b-a8a5-f96cc8589376")
-		)
-		(pin "2"
-			(uuid "7bf488cd-912a-4993-b092-c19798f05e97")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW36")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 63.5 77.47 180)
 		(unit 1)
@@ -8225,92 +4433,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 267.97 55.88 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "991ef522-d159-41d4-9f7c-9c5744dcbeeb")
-		(property "Reference" "D44"
-			(at 267.97 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 267.97 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 267.97 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 267.97 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 267.97 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 267.97 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 267.97 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "375eb4d6-311f-465d-980e-ee13cd42f367")
-		)
-		(pin "1"
-			(uuid "9b4c7525-ad8e-49d1-b350-ec0442a8d714")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_MEC_5G")
 		(at 97.79 35.56 0)
 		(unit 1)
@@ -8386,250 +4508,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_MEC_5G")
-		(at 236.22 55.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a1a66759-ae46-4da7-811d-e88159c6f17a")
-		(property "Reference" "SW39"
-			(at 236.22 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 236.22 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 236.22 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 236.22 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 236.22 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "11239288-b5c3-474e-b4ae-816c10f6af2e")
-		)
-		(pin "4"
-			(uuid "0e76f963-42bf-4c6c-a77d-cf8a7b137d55")
-		)
-		(pin "3"
-			(uuid "65cad1c6-9517-48a3-9c19-c8efa3498c36")
-		)
-		(pin "2"
-			(uuid "f0500fc8-24ba-424c-ae7b-a6fd0bafba15")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 245.11 83.82 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a2e2f287-6948-497b-88ca-02c34ee0953a")
-		(property "Reference" "D40"
-			(at 245.11 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 245.11 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 245.11 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 245.11 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 245.11 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 245.11 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 245.11 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b1e746b2-7748-4a85-b915-0d1e3a8e1f12")
-		)
-		(pin "1"
-			(uuid "ce999801-bfe2-4ae8-8d19-2a3167b353ae")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D40")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 267.97 111.76 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a30bb4e1-aaf6-428b-8d4b-9129ab037056")
-		(property "Reference" "D48"
-			(at 267.97 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 267.97 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 267.97 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 267.97 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 267.97 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 267.97 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 267.97 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4582c200-926d-4746-bc06-f8f967fa1338")
-		)
-		(pin "1"
-			(uuid "72047ecd-8418-488a-894d-4e2f4ab1d1d2")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D48")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
 		(at 97.79 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8697,80 +4575,6 @@
 			(project "Calculator"
 				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
 					(reference "SW10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 259.08 41.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ab1e6f3a-45c1-4056-92d1-0f077a24398b")
-		(property "Reference" "SW44"
-			(at 259.08 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 259.08 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 259.08 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 259.08 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 259.08 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dbf73b09-3cec-40e0-baf4-fb37b07ea0d8")
-		)
-		(pin "4"
-			(uuid "d2f7d410-c63f-4914-bcc5-776f2f5a2275")
-		)
-		(pin "3"
-			(uuid "7b833cf1-83c2-4463-b4cd-75dcb820aa55")
-		)
-		(pin "2"
-			(uuid "1a8e15b0-6c88-4a01-a229-8acfa56fb406")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW44")
 					(unit 1)
 				)
 			)
@@ -8862,177 +4666,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 201.93 69.85 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ad3f1105-4e8e-40e8-a141-d139c32da5fa")
-		(property "Reference" "D27"
-			(at 201.93 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 201.93 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 201.93 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 201.93 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 201.93 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 201.93 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f9bc6b17-abad-4a97-b7af-da79f7f8d082")
-		)
-		(pin "1"
-			(uuid "83c058c4-66be-488c-9217-750de371468c")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 267.97 69.85 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "aedb7dd4-a82e-473f-b561-807e66d80cbd")
-		(property "Reference" "D45"
-			(at 267.97 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 267.97 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 267.97 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 267.97 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 267.97 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 267.97 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 267.97 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ebb7fb03-610a-423e-80bd-15c871916d81")
-		)
-		(pin "1"
-			(uuid "224412da-de22-4230-a702-a01d45b918a7")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_MEC_5G")
 		(at 54.61 77.47 0)
 		(unit 1)
@@ -9108,80 +4741,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_MEC_5G")
-		(at 214.63 41.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b4759342-f2a5-4c88-8949-5093c7666534")
-		(property "Reference" "SW32"
-			(at 214.63 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 214.63 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 214.63 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 214.63 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 214.63 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "566f4931-cfb0-479d-b965-821d35d5ba2e")
-		)
-		(pin "4"
-			(uuid "e567f9a6-0142-426f-b4bd-215613d1017f")
-		)
-		(pin "3"
-			(uuid "82f4dfbc-4403-4dc3-9c8b-28568d5951fe")
-		)
-		(pin "2"
-			(uuid "2c279734-873e-4519-a9c0-103b43742742")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
 		(at 120.65 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9249,80 +4808,6 @@
 			(project "Calculator"
 				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
 					(reference "SW17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 236.22 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b9f81b4d-959a-48b5-9a36-2f0e0dec4c3c")
-		(property "Reference" "SW43"
-			(at 236.22 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 236.22 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 236.22 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 236.22 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 236.22 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5c861863-4adb-4ec1-b846-5cdc1fc4daef")
-		)
-		(pin "4"
-			(uuid "06f95ba4-30f4-4a70-a94c-ddd8817874ae")
-		)
-		(pin "3"
-			(uuid "b8856f86-7cc5-43b3-ba57-cb2331695f7d")
-		)
-		(pin "2"
-			(uuid "f0cf2ee7-19df-4845-8cec-c8ca2c7406a3")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW43")
 					(unit 1)
 				)
 			)
@@ -9471,92 +4956,6 @@
 			(project "Calculator"
 				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
 					(reference "SW25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 223.52 69.85 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "beecf2e7-e9c7-488e-bd53-3e36d08a1640")
-		(property "Reference" "D33"
-			(at 223.52 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 223.52 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 223.52 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 223.52 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 223.52 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9cd39cba-fb5b-4f48-b2b2-24456ca5642c")
-		)
-		(pin "1"
-			(uuid "0ba5d8d2-ad42-4351-83d0-5f7a72452ef8")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -9798,251 +5197,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_MEC_5G")
-		(at 259.08 55.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d344f3e5-b983-4c02-8167-56aeb6fe6224")
-		(property "Reference" "SW45"
-			(at 259.08 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 259.08 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 259.08 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 259.08 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 259.08 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6532d987-2d01-491b-9128-e11aca734c64")
-		)
-		(pin "4"
-			(uuid "0b2719fd-ffcb-4712-95d3-038f89aa8ab0")
-		)
-		(pin "3"
-			(uuid "ffa18ea8-9765-4bb5-bc53-206ef4e762ca")
-		)
-		(pin "2"
-			(uuid "c2e29280-6b8c-4a6d-ae56-82420d684d54")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 267.97 41.91 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d7a66c7c-c5cc-4556-9a30-86211a0f9869")
-		(property "Reference" "D43"
-			(at 267.97 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 267.97 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 267.97 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 267.97 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 267.97 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 267.97 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 267.97 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "742ced02-fce0-4a21-8f57-5c29122ad28d")
-		)
-		(pin "1"
-			(uuid "e4db051b-138b-4f75-bac5-8a811644ce08")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 245.11 55.88 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "db9eb005-7d3f-480c-8642-dc294381edd6")
-		(property "Reference" "D38"
-			(at 245.11 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 245.11 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 245.11 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 245.11 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 245.11 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 245.11 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 245.11 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f9b921ad-7dda-456d-a42d-9f20221d3c4b")
-		)
-		(pin "1"
-			(uuid "6a15a4d2-a5e9-4ee7-a026-15ef81f6521c")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D38")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
 		(at 97.79 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10110,176 +5264,6 @@
 			(project "Calculator"
 				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
 					(reference "SW13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 267.97 97.79 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "dcf73a93-261b-4ae6-97b3-3aa090ce7ca5")
-		(property "Reference" "D47"
-			(at 267.97 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 267.97 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 267.97 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 267.97 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 267.97 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 267.97 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 267.97 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "236e79a4-505c-4e66-b593-e54d1317667f")
-		)
-		(pin "1"
-			(uuid "62ee3f4b-41ed-47ce-a8e4-ce56cfba0456")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D47")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 245.11 97.79 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "dcffbfdd-4422-4321-a4c8-aa0fd867ece0")
-		(property "Reference" "D41"
-			(at 245.11 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D"
-			(at 245.11 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 245.11 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 245.11 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 245.11 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 245.11 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 245.11 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ae5be0d8-4a6a-471c-bdc3-f9020c2b948c")
-		)
-		(pin "1"
-			(uuid "9deef146-0c0c-4161-bac3-2294cf3003c8")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -10366,80 +5350,6 @@
 			(project "Calculator"
 				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
 					(reference "D19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 236.22 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dec11e74-48f7-4fb5-bdb8-cc1cc628cc53")
-		(property "Reference" "SW42"
-			(at 236.22 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 236.22 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 236.22 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 236.22 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 236.22 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f9faca97-68d4-4b35-838e-527b4124d879")
-		)
-		(pin "4"
-			(uuid "6e3113eb-f4e9-4f52-a09e-b9ff0e240650")
-		)
-		(pin "3"
-			(uuid "1ab520cc-79ce-4b7e-8a3d-f0c10319e4bc")
-		)
-		(pin "2"
-			(uuid "67a0035e-12e3-4ee8-a408-309ca810a37f")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW42")
 					(unit 1)
 				)
 			)
@@ -10599,154 +5509,6 @@
 			(project "Calculator"
 				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
 					(reference "D12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 259.08 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ec98f932-9e70-4f0b-a360-d775c3f77c17")
-		(property "Reference" "SW49"
-			(at 259.08 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 259.08 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 259.08 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 259.08 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 259.08 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2950f57f-9890-488c-8fa0-6acfb1e18d27")
-		)
-		(pin "4"
-			(uuid "31ac6656-ce40-4698-ad51-960dc6dc130b")
-		)
-		(pin "3"
-			(uuid "b8c44217-a68f-4cfa-be51-7d3697c474a5")
-		)
-		(pin "2"
-			(uuid "d9630191-7471-436a-a06b-fbc020c66f56")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW49")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_MEC_5G")
-		(at 193.04 41.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f50c1805-d1d8-435b-bef9-3442ce32a3bf")
-		(property "Reference" "SW26"
-			(at 193.04 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MEC_5G"
-			(at 193.04 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 193.04 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488"
-			(at 193.04 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "MEC 5G single pole normally-open tactile switch"
-			(at 193.04 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "69c89ac8-e7f0-440e-ac54-db1904d0d369")
-		)
-		(pin "4"
-			(uuid "9817f8b8-b524-4cab-b42c-b2b88baee260")
-		)
-		(pin "3"
-			(uuid "3a41a59d-6d20-4b58-940d-06981aa2614a")
-		)
-		(pin "2"
-			(uuid "ed9ea03f-fa3f-40de-80e0-0d454159a8b7")
-		)
-		(instances
-			(project "Calculator"
-				(path "/687c7ae9-6ddd-479c-b536-3da1a83a559b/6d20d645-b399-44be-a696-f60ab8ffa901"
-					(reference "SW26")
 					(unit 1)
 				)
 			)
