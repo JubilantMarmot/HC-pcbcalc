@@ -10,10 +10,12 @@ calc = Calculator()
 
 def get_key_from_matrix(matrix):
     key_map = [
-        ['1', '2', '3'],
-        ['4', '5', '6'],
-        ['7', '8', '9'],
-        ['C', '0', '=']
+        ['7', '8', '9', '+'],
+        ['4', '5', '6', '-'],
+        ['1', '2', '3', '*'],
+        ['C', '0', '=', '/'],
+        ['sin', 'cos', 'tan', 'sqrt'],
+        ['log', 'exp', '', '']
     ]
     result = matrix.scan()
     for r in range(len(result)):
@@ -21,6 +23,7 @@ def get_key_from_matrix(matrix):
             if result[r][c] == 1:
                 return key_map[r][c]
     return None
+
 
 def main():
     while True:
