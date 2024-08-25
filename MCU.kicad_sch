@@ -2656,7 +2656,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_A_Molex_105057_Vertical"
 			(at 41.91 160.528 90)
 			(effects
 				(font
@@ -3027,7 +3027,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_A_Stewart_SS-52100-001_Horizontal"
 			(at 29.718 29.21 90)
 			(effects
 				(font
@@ -3228,7 +3228,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 24.4348 173.99 0)
 			(effects
 				(font
@@ -3363,7 +3363,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 58.7248 173.99 0)
 			(effects
 				(font
@@ -3432,7 +3432,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin"
 			(at 19.05 38.1 0)
 			(effects
 				(font
@@ -3500,7 +3500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ABM8-272-T3_ABR"
+		(property "Footprint" "custom:ABM8-272-T3_ABR"
 			(at 29.21 171.45 0)
 			(effects
 				(font
@@ -3578,7 +3578,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_A_Molex_48037-2200_Horizontal"
 			(at 61.468 165.1 90)
 			(effects
 				(font
